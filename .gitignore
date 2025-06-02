@@ -10,7 +10,6 @@ venv/
 
 *.csv
 *.tsv
-*.txt
 *.zip
 *.tar.gz
 *.h5
